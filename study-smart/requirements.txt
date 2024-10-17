@@ -1,7 +1,6 @@
 streamlit
 matplotlib
 numpy
-re
 scipy
 requests
 firebase_admin
