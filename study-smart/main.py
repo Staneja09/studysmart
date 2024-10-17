@@ -1,7 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
-import re
 from scipy import stats
 import requests
 import firebase_admin
